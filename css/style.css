@@ -305,9 +305,17 @@ input[value="+"] {
     
     .right-form form {
         margin: 0px auto;
+        background-color: white;
+        width: 320px;
+    }
+
+    form input[type="text"] , form input[type="password"], form input[value="Log In"]{
+        width: 270px;
+        height: 40px;
     }
 
     footer {
         max-width: 80vw;
     }
 }
+
