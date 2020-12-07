@@ -269,7 +269,7 @@ input[value="+"] {
 @media screen and (max-width: 500px) {
     .center {
         height: 100%;
-        max-width: 80vw;
+        max-width: 70vw;
         margin: 0 auto;
         padding: 0 4%;
     }
